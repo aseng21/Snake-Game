@@ -1,0 +1,7 @@
+# ninja log v6
+2	105	1719391810197540034	CMakeFiles/untitled.dir/main.c.o	72a7fa75f4ffcd51
+2	106	1719391810197812784	CMakeFiles/untitled.dir/game.c.o	c34055d0d2dc85a5
+110	307	1719391810306255016	untitled	64a7df76d4f6842
+1	66	1729222818610837326	build.ninja	577b9645e3e390e0
+2	110	1719391810197964200	CMakeFiles/untitled.dir/render.c.o	b04bb32a8381ae1d
+2	106	1719391810198129325	CMakeFiles/untitled.dir/menu.c.o	16f3cb7acd0a1fa3
